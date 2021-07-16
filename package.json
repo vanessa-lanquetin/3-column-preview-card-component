@@ -1,0 +1,19 @@
+{
+  "name": "3-column-preview-card-component",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanessouille/3-column-preview-card-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanessouille/3-column-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/vanessouille/3-column-preview-card-component#readme"
+}
