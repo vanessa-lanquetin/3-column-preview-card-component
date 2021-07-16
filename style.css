@@ -79,7 +79,6 @@ body{
   margin-top: 80px;
   width:120px;
   cursor: pointer;
-  background-clip: text;
   border: 2px solid transparent;
 }
 #card .infos:hover{
