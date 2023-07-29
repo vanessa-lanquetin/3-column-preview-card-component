@@ -1,3 +1,8 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
 body{
   background-color: hsl(0, 0%, 95%);
   font-size: 15px;
@@ -21,7 +26,7 @@ body{
 #card{
   width: 70%;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 #col-left{
   background-color: hsl(31, 77%, 52%);
@@ -94,13 +99,14 @@ body{
   #card{
     display: flex;
     width: 94%;
-    margin: 20px;
+    margin: auto;
     flex-direction: column;
   }
   #box-card{
     display:block;
     margin-top: 20px;
     margin-bottom: 20px;
+    height: 100%;
   }
   #col-left{
     border-bottom-left-radius: 0;
